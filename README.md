@@ -17,7 +17,7 @@ pip install test_evaluate_code_2
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+5
+1+2
 ```
 
     2
